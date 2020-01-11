@@ -1,0 +1,45 @@
+.my-container{
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(53, 54, 58);
+}
+.header-bar{
+    height: 90px;
+    padding: 5px;
+}
+.header-content{
+    padding-top: .5em;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: Orbitron;
+}
+
+.search{
+    float: right;
+}
+
+.search-button{
+        display: inline-block;
+        margin: 0 5px;
+        border-radius: 6px;
+        font-family: "Lato", sans-serif;
+        font-size: 16.5px;
+        padding: 12px 20px;
+        border: 0;
+        background: rgb(31, 31, 46);
+        color: #FFF;
+        cursor: pointer;
+        outline: 0;
+}
+
+.search-button:hover{
+    background: rgb(76, 76, 95)
+}
+
+.search-input{
+    height: 35px; 
+    width: 300px;
+    font-size: 15px;
+}
