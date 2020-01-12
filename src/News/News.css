@@ -1,6 +1,6 @@
 .my-container{
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 5em;
+    padding-left: 5em;
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: rgb(53, 54, 58);
@@ -9,6 +9,8 @@
     height: 90px;
     padding: 5px;
 }
+
+
 .header-content{
     padding-top: .5em;
     text-align: center;
